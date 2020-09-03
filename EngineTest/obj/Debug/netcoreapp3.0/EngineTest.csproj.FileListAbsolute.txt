@@ -1,0 +1,11 @@
+C:\Users\qwadr\source\repos\EngineTest\EngineTest\bin\Debug\netcoreapp3.0\EngineTest.exe
+C:\Users\qwadr\source\repos\EngineTest\EngineTest\obj\Debug\netcoreapp3.0\EngineTest.csprojAssemblyReference.cache
+C:\Users\qwadr\source\repos\EngineTest\EngineTest\obj\Debug\netcoreapp3.0\EngineTest.AssemblyInfoInputs.cache
+C:\Users\qwadr\source\repos\EngineTest\EngineTest\obj\Debug\netcoreapp3.0\EngineTest.AssemblyInfo.cs
+C:\Users\qwadr\source\repos\EngineTest\EngineTest\bin\Debug\netcoreapp3.0\EngineTest.deps.json
+C:\Users\qwadr\source\repos\EngineTest\EngineTest\bin\Debug\netcoreapp3.0\EngineTest.runtimeconfig.json
+C:\Users\qwadr\source\repos\EngineTest\EngineTest\bin\Debug\netcoreapp3.0\EngineTest.runtimeconfig.dev.json
+C:\Users\qwadr\source\repos\EngineTest\EngineTest\bin\Debug\netcoreapp3.0\EngineTest.dll
+C:\Users\qwadr\source\repos\EngineTest\EngineTest\bin\Debug\netcoreapp3.0\EngineTest.pdb
+C:\Users\qwadr\source\repos\EngineTest\EngineTest\obj\Debug\netcoreapp3.0\EngineTest.dll
+C:\Users\qwadr\source\repos\EngineTest\EngineTest\obj\Debug\netcoreapp3.0\EngineTest.pdb
