@@ -38,7 +38,7 @@ namespace EngineTest
                        double HV,
                        double C)
         {
-            if(configsIsIllegal(I, MVFunction, TP, HM, HV, C))
+            if(!configsIsLegal(I, MVFunction, TP, HM, HV, C))
             {
                 throw new IllegalConfigurationsForEngineException();
             }
@@ -52,7 +52,7 @@ namespace EngineTest
             a = 1.0 * MVFunction[0].First / I;
         }
 
-        private bool configsIsIllegal(
+        private bool configsIsLegal(
             int i,
             Pair<int, int>[] mVFunction,
             int tP,

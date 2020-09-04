@@ -22,7 +22,7 @@ namespace EngineTest
             {
                 var m = pair.First;
                 var v = pair.Second;
-                if (!(ValueBetween(m, 0, 1000) && ValueBetween(v, 0, 1000)))
+                if (!(ValueBetween(m, -1, 1000) && ValueBetween(v, -1, 1000)))
                 {
                     return false;
                 }
